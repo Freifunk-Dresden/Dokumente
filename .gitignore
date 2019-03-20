@@ -1,0 +1,10 @@
+
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.out
+*.toc
+*.xdv
+Verein/Satzung_Freifunk_Dresden.pdf
+*.gz
