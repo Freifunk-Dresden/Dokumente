@@ -88,14 +88,3 @@ Notiz das Version 1.1 **NICHT** funktioniert. Alle anderen werden unterstützt.
 ## Stammtischtreffen aka Sprechstunde vs. Planungstreffen
 
 Alle sind dafür offen und alle würden sicher auch unabhängig der Sprechstunde treffen.
-
-
---
-
-# Vorstands-Themen
-
-Am Ende getrennt besprechen.
-
-1. Mitglieder: Bei-/Austritte (Diego)
-
-1. ...
