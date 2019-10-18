@@ -1,18 +1,12 @@
 ﻿# Freifunk-Sprechstunde 16.10.2019
 
-Themenbesprechung: 20.30-22.00
+Themenbesprechung: 20:30 - 22:00
 
-## Themenreihenfolge
+[TOC]
 
-1. Keybase.io (evt. neue Chat/Filesharing Plattform" (5 min)
-2. Termin Jahreshauptversammlung 2019
-3. Wiki aufräumen / Website gestalten
-4. Mailingliste Konzept
-5. Freifunk-Klassenfahrt zum 36C3 in Leipzig
+**Unbehandelte Themen**
 
-# Unbehandelte Themen
-
-1. Satzung für GitHub: Micha fehlt
+- Satzung für GitHub: Micha fehlt
 
 
 ## Keybase.io (evt. neue Chat/Filesharing Plattform" (11 min)
